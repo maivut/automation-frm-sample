@@ -30,4 +30,5 @@ public class MainTest {
         StringClass s = new StringClass();
         s.reverseStringByWord();
     }
+
 }
